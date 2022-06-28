@@ -1,4 +1,3 @@
-By Codex
 loadstring(game:HttpGet("https://pastebin.com/raw/pc7FrseG",true))() --Mizt's Reanimaton works on R15 and R6.
 
  wait(.1) -- Do not change because changing it will break.
